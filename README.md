@@ -1,8 +1,9 @@
 To use thsi code following tools and coversions should be needed
-1-ESP32 Microcontrollers 
-2-Aurdino IDE installed 
-3-Install and configure ESP32 On Aurdino IDE
-3-Install and configure following libraries 
+
+1- ESP32 Microcontrollers
+2- Aurdino IDE installed 
+3- Install and configure ESP32 On Aurdino IDE
+4- Install and configure following libraries 
 - <NewPing.h>
 - <millisDelay.h>
 - <Arduino.h>
